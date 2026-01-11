@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pandas
+great_expectations
+sqlalchemy
+psycopg2-binary
+pydantic
+pydantic-settings
+python-dotenv
